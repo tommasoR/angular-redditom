@@ -13,7 +13,7 @@ export class ArticleComponent implements OnInit {
 
   constructor() {
     this.article = new Article(
-    'Angular 2',
+    'Angular 4',
     'http://angular.io',
     10);
   }
